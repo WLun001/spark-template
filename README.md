@@ -4,6 +4,8 @@ Spark application template for running on Cloud
 # Quick Tips
 - Spark only work with Scala version **below** 2.12 and Java 9 according to its [documentation](https://spark.apache.org/docs/latest/)
 - Compile and create scala program using sbt 
+```sbt compile```
+```sbt package```
 - Upload datasets on Cloud Storage - example
 
 # Example Use Case
